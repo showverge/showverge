@@ -42,6 +42,10 @@ Invest in your brain with ShowVerge:
 
 Visit [showverge.com/en#pricing](https://showverge.com/pricing) for more info.
 
+## Future Vision
+
+We’re committed to evolving ShowVerge with our community. In the future, we plan to **open-source parts of the ShowVerge platform**, making select tools and resources freely available to learners and developers worldwide. This will allow you to explore, contribute to, and even customize the training methods that power our mission. We’re still in the early stages of this journey, and your input is invaluable! What features or components would you love to see open-sourced? Share your thoughts and suggestions in the [Discussions](https://github.com/showverge/showverge/discussions) tab—we’d love to hear your ideas.
+
 ## Get Involved
 - **Subscribe**: Sign up on our [website](https://showverge.com/) for product updates and exclusive tips.
 - **Follow Us**: Stay tuned for community events and announcements.
